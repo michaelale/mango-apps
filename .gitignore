@@ -362,5 +362,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-.vs/
-Mango.Services.CouponAPI\obj\Debug\net8.0/
+/.vs/
+/bin/
+/obj/
+Mango.Services.CouponAPI/bin/**
+Mango.Services.CouponAPI/obj/**
